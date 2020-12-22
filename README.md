@@ -1,5 +1,9 @@
 # AirLease 
-A starter repo for building CUNY Tech Prep projects with React, Express.js, and Sequelize.js
+
+An ecommerce site where you can thrift items and place your own items up for sale. Airlease focuses primarily on the experience of thrifting variety of items, as opposed to similar sites like thredUp.
+
+CUNY Tech Prep projects with React, Express.js, and Sequelize.js
+
 Website: https://hero-airlease.herokuapp.com/
 
 ## Video Walkthrough
