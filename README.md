@@ -3,6 +3,7 @@ A starter repo for building CUNY Tech Prep projects with React, Express.js, and 
 Website: https://hero-airlease.herokuapp.com/
 
 ## Video Walkthrough
+<img src='airlease.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Stack
 
