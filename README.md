@@ -1,5 +1,8 @@
-# Project Starter 
+#AirLease 
 A starter repo for building CUNY Tech Prep projects with React, Express.js, and Sequelize.js
+Website: https://hero-airlease.herokuapp.com/
+
+##Video Walkthrough
 
 ## Stack
 
